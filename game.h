@@ -11,7 +11,7 @@ using namespace std;
 void startloadImg();
 void startupScene(ExMessage *msg);
 bool isInRect(ExMessage *msg, int x, int y, int w, int h);
-void palyGame();
+void playGame();
 void putgamebk();
 
 enum MenuOp

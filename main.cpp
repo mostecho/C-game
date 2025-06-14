@@ -31,7 +31,7 @@ int main()
                     setfillcolor(WHITE);
                     solidcircle(playerPos.x,playerPos.y,30);
                     EndBatchDraw();
-                    palyGame();
+                    playGame();
                     Sleep(50);
                 }
             }
